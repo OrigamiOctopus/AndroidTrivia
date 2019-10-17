@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='android_trivia.gif' title='Android Trivia animated demo' alt='Android Trivia demo' />
+<img src='android_trivia_demo.gif' title='Android Trivia animated demo' alt='Android Trivia demo' />
 
 ## Notes
 
